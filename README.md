@@ -1,1 +1,1 @@
-# victorVHRF-nlw-eSports-web
+# nlw-eSports-web
